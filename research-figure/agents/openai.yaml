@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研绘图"
+  short_description: "从核心贡献出发，生成设计稿并重建为 Figma 或 PPT 可编辑科研图"
+  default_prompt: "使用 $research-figure 规划这组科研图，先用 GPT Image 出设计稿，再重建到 Figma 或 PPT，并从读者视角反复检查。"
